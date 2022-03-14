@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkclient"]=self["webpackChunkclient"]||[]).push([[962],{2962:(e,n,o)=>{o.r(n),o.d(n,{default:()=>a});var c=o(3673);const s=(0,c.aZ)({name:"PageSocialLogin",setup(){const e=()=>{console.log(window.opener),window.close()};e()}}),l=s,a=l}}]);
